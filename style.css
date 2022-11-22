@@ -64,7 +64,7 @@ main{
   
   .result{
     display: flex;
-    margin-top: 1px;
+    margin-top: 2px;
     align-items: center;
     width: 350px;
     height: 100px;
