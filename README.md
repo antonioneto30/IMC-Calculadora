@@ -7,4 +7,4 @@ Baseado no projeto de Fernando Leonid.
 
 - HTML
 - CSS
-- Javascript
+- JavaScript
